@@ -1,0 +1,10 @@
+data,descricao,valor,tipo,categoria,documento
+15/01/2024,Pagamento Fornecedor ABC Ltda,1500.00,debito,Fornecedores,NF001
+16/01/2024,Recebimento Cliente XYZ Corp,2300.50,credito,Vendas,FAT002
+17/01/2024,Taxa de Manutenção Bancária,25.00,debito,Taxas,TB003
+18/01/2024,Transferência Recebida PIX,800.00,credito,Transferências,PIX004
+19/01/2024,Pagamento Folha de Salários,5000.00,debito,Pessoal,FOL005
+20/01/2024,Recebimento Cartão de Crédito,1200.75,credito,Vendas,CC006
+21/01/2024,Pagamento Aluguel Escritório,2500.00,debito,Despesas,ALU007
+22/01/2024,Juros sobre Capital Próprio,150.30,credito,Rendimentos,JCP008
+

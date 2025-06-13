@@ -1,0 +1,10 @@
+data,descricao,valor,tipo,categoria,documento
+15/01/2024,Pagamento Fornecedor ABC,1500.00,debito,Fornecedores,PG001
+16/01/2024,Venda Cliente XYZ,2300.50,credito,Vendas,VD002
+18/01/2024,Recebimento PIX,800.00,credito,Transferências,REC003
+19/01/2024,Folha Pagamento Janeiro,5000.00,debito,Pessoal,FP004
+20/01/2024,Venda Cartão Crédito,1200.75,credito,Vendas,VC005
+21/01/2024,Despesa Aluguel,2500.00,debito,Despesas,DA006
+23/01/2024,Venda Produto Premium,3200.00,credito,Vendas,VP007
+24/01/2024,Pagamento Fornecedor DEF,890.25,debito,Fornecedores,PG008
+
