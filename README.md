@@ -333,7 +333,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👥 Autores
 
-- **Desenvolvedor Principal** - Simulador de Conciliação Bancária
+- **JULIANA ARAÚJO** - Simulador de Conciliação Bancária
 
 ## 🙏 Agradecimentos
 
@@ -348,5 +348,5 @@ Para suporte, abra uma issue no GitHub ou entre em contato através do email.
 
 ---
 
-**Simulador de Conciliação Bancária** - Desenvolvido com ❤️ para facilitar processos financeiros.
+**Simulador de Conciliação Bancária** - Desenvolvido com ❤️ para facilitar processos financeiros. - PROJETO FACULDADE
 
